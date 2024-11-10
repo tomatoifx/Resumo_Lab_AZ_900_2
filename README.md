@@ -1,2 +1,4 @@
 # Resumo_Lab_AZ_900_2
 Repositório para resumir aprendizado do treinamento para cetificação AZ-900
+
+Foi possível aprender até o momento sobre os conceitos de escalabilidade, elasticidade, confiabilidade, previsibilidade, segurança, governança e gerenciabilidade. Quais os beneficios de todos estes conceitos, como aplicar-los e quais responsabilidades são do fornecedor da nuvem e do cliente. Além de quais modalidades trabalham em conjunto, sendo relativamente comum quem trabalha com segurança também trabalhar com governança, visto que para aplicar determinadas regras de segurança é preciso conhecer sobre a governança do setor trabalhado em questão, como por exemplo uma empresa do setor de venda de produtos químicos, onde é necessário ter permição especial para a aquisição de determinados tipos de produtos e eventualmente este tipo de venda será auditada.
